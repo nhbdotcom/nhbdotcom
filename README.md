@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring and learning new languages.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate with everyone who is a beginner and expert in this field!
-- 📫 You can reach me via email at nhb_jr@yahoo.com
+- 📫 You can reach me via email at nhb_jr@yahoo.com || normanharold.bernalesjr@outlook.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Your brain is constantly eating itself.
 
