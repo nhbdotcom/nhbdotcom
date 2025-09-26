@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @nhbdotcom
-- 👀 I’m interested in exploring and learning new languages.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate with everyone who is a beginner and expert in this field!
-- 📫 You can reach me via email at nhb_jr@yahoo.com || normanharold.bernalesjr@outlook.com
-- 😄 Pronouns: Him/He
-- ⚡ Fun fact: Your brain is constantly eating itself.
+# Norman Harold Bernales Jr.
 
-<!---
-nhbdotcom/nhbdotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Technical Support Specialist & Customer Support Specialist**
+
+---
+
+With over seven years of experience helping people solve technical problems with patience and clarity, I focus on making complex situations manageable and human. Whether I’m guiding customers through software issues, troubleshooting payment systems, or calming frustrated users, I bring a logical, hands-on approach to every interaction—grounded in my background in electrical technology.
+
+I thrive in fast-paced environments where communication and teamwork matter, and I’m always eager to learn and grow with a supportive team. When I’m not troubleshooting, I enjoy tinkering with electronics and spending time with my family—reminding me that good solutions come from patience, care, and a little creativity.
+
+---
+
+## 🛠️ Tech Skills
+
+- Basic knowledge of:
+  - Java
+  - Python
+  - JavaScript
+  - Markdown
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+
+---
+
+### 🚀 Open to new opportunities—let’s connect!
