@@ -20,7 +20,7 @@ I thrive in fast-paced environments where communication and teamwork matter, and
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/norman-harold-banatao-bernales-jr-973071125)
 
 ---
 
