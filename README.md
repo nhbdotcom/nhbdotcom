@@ -10,13 +10,23 @@ I thrive in fast-paced environments where communication and teamwork matter, and
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Basic to advance knowledge of:
+  <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-- Basic knowledge of:
-  - Java
-  - Python
-  - JavaScript
-  - Markdown
+<img align="left" alt="Js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+<img align="left" alt="Markdown" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+<img align="left" alt="Neovim" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
+
+<img align="left" alt="Jira" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+
+
+
+
 
 ---
 
