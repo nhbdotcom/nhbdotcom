@@ -10,8 +10,8 @@ I thrive in fast-paced environments where communication and teamwork matter, and
 
 ---
 
-## 🛠️ Basic to advance knowledge of:
-  <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+## 🛠️ Tools:
+  <p><img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 <img align="left" alt="Js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -23,11 +23,9 @@ I thrive in fast-paced environments where communication and teamwork matter, and
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
 
 <img align="left" alt="Jira" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+</p>
 
-
-
-
-
+<br><br>
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/norman-harold-banatao-bernales-jr-973071125)
